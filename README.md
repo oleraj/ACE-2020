@@ -8,21 +8,22 @@ SURVEY
 
 Computational Biology Specialists from the National Institute of Allergy and Infectious Diseases (NIAID) will be teaching courses on bioinformatics topics and biocomputing tools.
 
-Phil Cruz, Ph.D.*
-Jingwen Gu, M.S.*
-Brendan Jeffrey, Ph.D.*
-Meghan McCarthy, Ph.D.*
-Mariam Quiñones, Ph.D.
-Amit Roy, Ph.D.*
-R. Burke Squires, M.S.*
-Poorani Subramanian, Ph.D.*
-Claire Wang, M.S.*
+- Phil Cruz, Ph.D.*
+- Jingwen Gu, M.S.*
+- Brendan Jeffrey, Ph.D.*
+- Meghan McCarthy, Ph.D.*
+- Mariam Quiñones, Ph.D.
+- Amit Roy, Ph.D.*
+- R. Burke Squires, M.S.*
+- Poorani Subramanian, Ph.D.*
+- Claire Wang, M.S.*
 
 * Instructors provide bioinformatics support at the NIAID as employees of Medical Science and Computing, Inc.
 
 ## SCHEDULE(S)
 
-## Uganda Bioinformatic Training - 2020		
+## Uganda Bioinformatic Training - 2020
+
 | Date        | Instructor      | Topic                                                                                                         | Course                                                               | Date (british format) |
 |-------------|-----------------|---------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|-----------------------|
 | 3-Feb-2020  | Dan Veltri      | Intro to Deep Learning (TensorFlow and Keras)                                                                 | Big Bio-data Analysis (Artificial Intelligence and Machine Learning) | 03.02.2020            |
