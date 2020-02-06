@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Workshop Schedule
-date: "10-12 September 2019"
+title: ACE Training Schedule for 2020
 ---
 {::options toc_levels="1..2" /}
 
@@ -25,11 +24,6 @@ Claire Wang, M.S.\*
 \* Instructors provide bioinformatics support at the NIAID as employees of Medical Science and Computing, Inc.
 
 # SCHEDULE
-
-## WORKSHOP 1
-Room A322
-
-### Tuesday, September 10, 2019
 
 | Date        | Date (british format) | Instructor              | Topic                                                                                                         | 
 |-------------|-----------------------|-------------------------|---------------------------------------------------------------------------------------------------------------| 
