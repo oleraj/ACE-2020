@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+# ACE 2020 Training Schedule
 
-You can use the [editor on GitHub](https://github.com/niaid/ACE-2020/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+- INSTRUCTORS
+- SCHEDULE
+SURVEY
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## INSTRUCTORS
 
-### Markdown
+Computational Biology Specialists from the National Institute of Allergy and Infectious Diseases (NIAID) will be teaching courses on bioinformatics topics and biocomputing tools.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Phil Cruz, Ph.D.*
+Jingwen Gu, M.S.*
+Brendan Jeffrey, Ph.D.*
+Meghan McCarthy, Ph.D.*
+Mariam Quiñones, Ph.D.
+Amit Roy, Ph.D.*
+R. Burke Squires, M.S.*
+Poorani Subramanian, Ph.D.*
+Claire Wang, M.S.*
 
-```markdown
-Syntax highlighted code block
+* Instructors provide bioinformatics support at the NIAID as employees of Medical Science and Computing, Inc.
 
-# Header 1
-## Header 2
-### Header 3
+## SCHEDULE(S)
 
-- Bulleted
-- List
+## Uganda Bioinformatic Training - 2020		
+| Date        | Instructor      | Topic                                                                                                         | Course                                                               | Date (british format) |
+|-------------|-----------------|---------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|-----------------------|
+| 3-Feb-2020  | Dan Veltri      | Intro to Deep Learning (TensorFlow and Keras)                                                                 | Big Bio-data Analysis (Artificial Intelligence and Machine Learning) | 03.02.2020            |
+| 6-Feb-2020  | Kurt Wollenberg | [Dynamic programming and Alignment algorithms](https://github.com/niaid/Principles-of-Sequence-Analysis-and-Phylogenetics)  | Principles of Sequence analysis and Phylogenetics | 06.02.2020            |
+| 10-Feb-2020 | Dan Veltri      | Intro to Deep Learning (TensorFlow and Keras)                                                                 | Big Bio-data Analysis (Artificial Intelligence and Machine Learning) | 10.02.2020            |
+| 13-Feb-2020 | Kurt Wollenberg | Natural selection, genetic drift and measures of genetic diversity                                            | Molecular Evolution                                                  | 13.02.2020            |
+| 14-Feb-2020 | Kurt Wollenberg | Introduction to phylogenetics and phylogenetic tree inference methods (e.g. parsimony and Maximum Likelihood) | Principles of Sequence analysis and Phylogenetics                    | 17.02.2020            |
+| 20-Feb-2020 | Eric Karlins    | Linkage Disequilibrium                                                                                        | Population Genetics & Genomics                                       | 20.02.2020            |
+| 21-Feb-2020 | Yunhua Zhu      | Gene Regulatory Networks                                                                                      | Systems Biology  2                                                   | 21.02.2020            |
+| 24-Feb-2020 | Dan Veltri      | Intro to Deep Learning (TensorFlow and Keras)                                                                 | Big Bio-data Analysis (Artificial Intelligence and Machine Learning) | 24.02.2020            |
+| 27-Feb-2020 | Yunhua Zhu      | Gene Regulatory Networks                                                                                      | Systems Biology  2                                                   | 27.02.2020            |
+| 28-Feb-2020 | Kurt Wollenberg | Hardy-Weinberg Equilibrium, Basic Population Genetics Coalescent Models                                       | Population Genetics & Genomics                                       | 28.02.2020            |
+| 2-Mar-2020  | Dan Veltri      | Common machine learning algorithms: Supervised learning,  Unsupervised learning                               | Big Bio-data Analysis (Artificial Intelligence and Machine Learning) | 02.03.2020            |
+| 5-Mar-2020  | Dan Veltri      | Common machine learning algorithms: Supervised learning,  Unsupervised learning                               | Big Bio-data Analysis (Artificial Intelligence and Machine Learning) | 05.03.2020            |
+| 6-Mar-2020  | Kurt Wollenberg | Calculating evolutionary distances among sequences and correction models                                      | Molecular Evolution                                                  | 06.03.2020            |
+| 9-Mar-2020  | Burke Squires   | Introduction to Biopython                                                                                    | Python                                                               | 09.03.2020            |
+| 12-Mar-2020 | Isaac Bishof    | Network Structural Analysis                                                                                   | Systems Biology  2                                                   | 12.03.2020            |
+| 13-Mar-2020 | Kurt Wollenberg | Coalescent analysis and populations                                                                           | Principles of Sequence analysis and Phylogenetics                    | 13.03.2020            |
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+SURVEY
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/niaid/ACE-2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Coming soon...
