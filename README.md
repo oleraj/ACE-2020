@@ -17,6 +17,7 @@ Computational Biology Specialists from the National Institute of Allergy and Inf
 - R. Burke Squires, M.S.*
 - Poorani Subramanian, Ph.D.*
 - Claire Wang, M.S.*
+- Andrew Oler, Ph.D.
 
 * Instructors provide bioinformatics support at the NIAID as employees of Medical Science and Computing, Inc.
 
@@ -42,7 +43,7 @@ Computational Biology Specialists from the National Institute of Allergy and Inf
 | 9-Mar-2020  | Burke Squires   | Introduction to Biopython                                                                                    | Python                                                               | 09.03.2020            |
 | 12-Mar-2020 | Isaac Bishof    | Network Structural Analysis                                                                                   | Systems Biology  2                                                   | 12.03.2020            |
 | 13-Mar-2020 | Kurt Wollenberg | Coalescent analysis and populations                                                                           | Principles of Sequence analysis and Phylogenetics                    | 13.03.2020            |
-
+| 30-Mar-2020 | Andrew Oler | [Genetic Linkage Analysis and homozygosity mapping](https://github.com/niaid/Genetic-Linkage-Analysis) | Population Genetics & Genomics | 30.03.2020 |
 
 
 SURVEY
